@@ -12,6 +12,9 @@
   "entrypoints": {
     "client": [
       "com.filkond.nobokikizator.NobokikizatorClient"
+    ],
+    "modmenu": [
+      "com.filkond.nobokikizator.NobokikizatorModMenuIntegration"
     ]
   },
   "mixins": [
